@@ -1,8 +1,6 @@
 1. Client Requirement
 
-As a user of this course, Bayada raised the following key question:
-
-“How can the onboarding process be leveraged to strengthen the relationship between staff and client families in a sustainable and scalable way?”
+As a user of this course, we summaried Bayada'requirement by raising the following key question: “How can the onboarding process be leveraged to strengthen the relationship between staff and client families in a sustainable and scalable way?”
 
 2. Key Insights Derived from the Requirement
 Based on this question, we identified several critical insights:
