@@ -1,14 +1,13 @@
 1. Client Requirement
+
 As a user of this course, Bayada raised the following key question:
+
 “How can the onboarding process be leveraged to strengthen the relationship between staff and client families in a sustainable and scalable way?”
 
 2. Key Insights Derived from the Requirement
 Based on this question, we identified several critical insights:
-
 (1) The solution must be implemented during or before the onboarding process, rather than after onboarding is completed.
-
 (2) The primary goal is to strengthen the relationship between nurses and client families, not merely to complete operational onboarding tasks.
-
 (3) Beyond first impressions
 While a positive onboarding experience helps establish a good first impression, it alone is insufficient to unlock long-term value.
 
@@ -21,7 +20,6 @@ To achieve these outcomes, relationship-building must be embedded into the app i
 
 3. Proposed Solutions
 Based on the above analysis, we propose the following recommendations:
-
 (1) Detail-Driven Onboarding Experience
 We recommend enhancing the onboarding experience by focusing on thoughtful operational details, including:
  - Full team participation when onboarding visiting client families, to create a sense of professionalism and trust
